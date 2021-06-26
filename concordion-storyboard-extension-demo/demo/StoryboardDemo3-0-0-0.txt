@@ -1,1 +1,0 @@
-It can often be useful to split a complex example into several steps.
