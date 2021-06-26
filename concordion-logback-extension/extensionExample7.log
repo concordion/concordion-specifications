@@ -1,2 +1,2 @@
-25-06-2021 23:04:54.390 DEBUG s.Extension$WorkerFixture - Worker 1 on thread pool-1-thread-2
-25-06-2021 23:04:54.401 TRACE s.Extension$WorkerFixture - null
+26-06-2021 00:27:22.838 DEBUG s.Extension$WorkerFixture - Worker 1 on thread pool-1-thread-2
+26-06-2021 00:27:22.839 TRACE s.Extension$WorkerFixture - null
