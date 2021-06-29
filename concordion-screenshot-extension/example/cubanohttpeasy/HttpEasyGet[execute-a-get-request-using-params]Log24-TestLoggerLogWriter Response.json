@@ -1,0 +1,10 @@
+Response Headers:
+  HTTP/1.1 200 OK
+  Content-Type: application/json
+  Matched-Stub-Id: 0e5774e9-b45e-4412-aba1-b7497991a32b
+  Server: Jetty(9.2.28.v20190418)
+  Transfer-Encoding: chunked
+Response:
+{
+  "Hello": "Here is my GET"
+}
