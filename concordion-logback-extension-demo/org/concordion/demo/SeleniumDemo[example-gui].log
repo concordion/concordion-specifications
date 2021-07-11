@@ -1,13 +1,13 @@
-11-07-2021 05:33:49.793 DEBUG selenium.events - [By.name: q] - changed value to '6*9'
-11-07-2021 05:33:51.473 DEBUG selenium.events - org.openqa.selenium.StaleElementReferenceException
+11-07-2021 05:38:15.956 DEBUG selenium.events - [By.name: q] - changed value to '6*9'
+11-07-2021 05:38:17.460 DEBUG selenium.events - org.openqa.selenium.StaleElementReferenceException
 org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
   (Session info: headless chrome=91.0.4472.114)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'fv-az36-560', ip: '10.1.0.101', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1036-azure', java.version: '1.8.0_292'
+System info: host: 'fv-az42-218', ip: '10.1.0.97', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1036-azure', java.version: '1.8.0_292'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: /tmp/.com.google.Chrome.mGtQvN}, goog:chromeOptions: {debuggerAddress: localhost:46709}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: f1f69cf7eaa0c25b0e1bc707de1a9045
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: /tmp/.com.google.Chrome.n8v9Ti}, goog:chromeOptions: {debuggerAddress: localhost:37795}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: edaa5f4a89daf3792122fde70f658f23
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -180,4 +180,4 @@ Session ID: f1f69cf7eaa0c25b0e1bc707de1a9045
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
 	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:56)
 	at java.lang.Thread.run(Thread.java:748)
-11-07-2021 05:33:51.473 DEBUG selenium.events - [By.name: q] - changed value
+11-07-2021 05:38:17.460 DEBUG selenium.events - [By.name: q] - changed value
