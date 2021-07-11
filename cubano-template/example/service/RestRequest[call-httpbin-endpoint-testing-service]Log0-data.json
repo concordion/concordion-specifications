@@ -8,8 +8,8 @@
     "Host": "httpbin.org",
     "Pragma": "no-cache",
     "User-Agent": "Java/1.8.0_292",
-    "X-Amzn-Trace-Id": "Root\u003d1-60ea7268-40b1438a1e68d9640b61565b"
+    "X-Amzn-Trace-Id": "Root\u003d1-60ea730f-17a7359a295c87a83cc8dc90"
   },
-  "origin": "13.84.31.3",
+  "origin": "13.65.174.190",
   "url": "http://httpbin.org/get?name\u003dfred"
 }
